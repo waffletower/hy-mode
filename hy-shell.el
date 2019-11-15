@@ -39,7 +39,7 @@
 (defvar hy-shell--interpreter "hy"
   "Default Hy interpreter name.")
 
-(defvar hy-shell--interpreter-args '("--spy")
+(defvar hy-shell--interpreter-args '()
   "Default argument list to pass to the Hy interpreter.")
 
 (defvar hy-shell--enable-font-lock? t
